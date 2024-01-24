@@ -1,0 +1,42 @@
+/* SECTION element selectors */
+
+
+body {
+    background-color: #061130;
+}
+
+div {
+    color: #f4f6f8;
+
+}
+
+
+
+
+/* SECTION class selectors */
+
+.display-flex {
+    display: flex;
+}
+
+.justify-flex-items-evenly {
+    Justify-content: space-evenly;
+}
+
+.justify-flex-items-between {
+    justify-content: space-between;
+}
+
+.align-flex-items-center {
+    align-items: center;
+}
+
+
+.form-style {
+    float: right;
+}
+
+.div-text {
+    font-size: 2rem;
+    text-align: center;
+}
